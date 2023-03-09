@@ -1,0 +1,15 @@
+D:\BridgeLabz\Demo\EmployeeWageProblem\bin\Debug\net6.0\EmployeeWageProblem.exe
+D:\BridgeLabz\Demo\EmployeeWageProblem\bin\Debug\net6.0\EmployeeWageProblem.deps.json
+D:\BridgeLabz\Demo\EmployeeWageProblem\bin\Debug\net6.0\EmployeeWageProblem.runtimeconfig.json
+D:\BridgeLabz\Demo\EmployeeWageProblem\bin\Debug\net6.0\EmployeeWageProblem.dll
+D:\BridgeLabz\Demo\EmployeeWageProblem\bin\Debug\net6.0\EmployeeWageProblem.pdb
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.csproj.AssemblyReference.cache
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.AssemblyInfoInputs.cache
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.AssemblyInfo.cs
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.dll
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\refint\EmployeeWageProblem.dll
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.pdb
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\EmployeeWageProblem.genruntimeconfig.cache
+D:\BridgeLabz\Demo\EmployeeWageProblem\obj\Debug\net6.0\ref\EmployeeWageProblem.dll
